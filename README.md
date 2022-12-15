@@ -1,2 +1,2 @@
-# Mridangam-stroke-type-classification-task-using-Essentia
-Mridangam stroke type classification task using Essentia
+# Algorithmic predominant melody extraction in in symphonic music recordings
+Algorithmic predominant melody extraction in in symphonic music recordings
